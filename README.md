@@ -1,4 +1,4 @@
-#✌ Refactor
+# ✌ Refactor
 ## Generador de Actas para el UNIVERSIDAD DE GUADALAJARA (CUCEA).
 
 Este demo consta de 10 personas simulando pertenecer a la UDG como alumnos, 
